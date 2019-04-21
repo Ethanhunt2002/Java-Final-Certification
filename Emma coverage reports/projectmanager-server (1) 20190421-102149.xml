@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="projectmanager-server (1)" project="projectmanager-server" tests="20" started="20" failures="0" errors="0" ignored="0">
+  <testsuite name="com.mohan.fsd.springboot.controller.ProjectManagerControllerTest" time="9.171">
+    <testcase name="testGetTasks" classname="com.mohan.fsd.springboot.controller.ProjectManagerControllerTest" time="6.427"/>
+    <testcase name="testGetUsers" classname="com.mohan.fsd.springboot.controller.ProjectManagerControllerTest" time="0.156"/>
+    <testcase name="testUpdateUsers" classname="com.mohan.fsd.springboot.controller.ProjectManagerControllerTest" time="0.047"/>
+    <testcase name="testHome" classname="com.mohan.fsd.springboot.controller.ProjectManagerControllerTest" time="0.031"/>
+    <testcase name="testTest" classname="com.mohan.fsd.springboot.controller.ProjectManagerControllerTest" time="0.031"/>
+    <testcase name="testGetParentTasksForProjectId" classname="com.mohan.fsd.springboot.controller.ProjectManagerControllerTest" time="0.079"/>
+    <testcase name="testUpdateTask" classname="com.mohan.fsd.springboot.controller.ProjectManagerControllerTest" time="0.093"/>
+    <testcase name="testUpdateProject" classname="com.mohan.fsd.springboot.controller.ProjectManagerControllerTest" time="0.157"/>
+    <testcase name="testGetProjects" classname="com.mohan.fsd.springboot.controller.ProjectManagerControllerTest" time="0.156"/>
+    <testcase name="testUpdateParentTask" classname="com.mohan.fsd.springboot.controller.ProjectManagerControllerTest" time="0.078"/>
+    <testcase name="testGetAllParentTasks" classname="com.mohan.fsd.springboot.controller.ProjectManagerControllerTest" time="1.916"/>
+  </testsuite>
+  <testsuite name="com.mohan.fsd.springboot.service.impl.ProjectManagerServiceImplTest" time="3.341">
+    <testcase name="testRetriveProjects" classname="com.mohan.fsd.springboot.service.impl.ProjectManagerServiceImplTest" time="2.484"/>
+    <testcase name="testUpdateTask" classname="com.mohan.fsd.springboot.service.impl.ProjectManagerServiceImplTest" time="0.172"/>
+    <testcase name="testUpdateUser" classname="com.mohan.fsd.springboot.service.impl.ProjectManagerServiceImplTest" time="0.031"/>
+    <testcase name="testRetriveTasks" classname="com.mohan.fsd.springboot.service.impl.ProjectManagerServiceImplTest" time="0.172"/>
+    <testcase name="testRetriveUsers" classname="com.mohan.fsd.springboot.service.impl.ProjectManagerServiceImplTest" time="0.078"/>
+    <testcase name="testUpdateProject" classname="com.mohan.fsd.springboot.service.impl.ProjectManagerServiceImplTest" time="0.047"/>
+    <testcase name="testUpdateParentTask" classname="com.mohan.fsd.springboot.service.impl.ProjectManagerServiceImplTest" time="0.062"/>
+    <testcase name="testRetriveParentTasks" classname="com.mohan.fsd.springboot.service.impl.ProjectManagerServiceImplTest" time="0.169"/>
+    <testcase name="testRetriveParentTasksForProjectId" classname="com.mohan.fsd.springboot.service.impl.ProjectManagerServiceImplTest" time="0.11"/>
+  </testsuite>
+</testrun>
